@@ -1,0 +1,2 @@
+# libreriasSQL
+proyecto con MySQL
